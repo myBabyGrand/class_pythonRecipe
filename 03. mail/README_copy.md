@@ -12,4 +12,4 @@
  - 트위치 클립 다운로드 : 트위치가 클립서비스(가 아니라 사실 전체 서비스)를 제공하지 않아 다른 서비스를 찾아보지만 ```blob```은 어떻게 받아야 할지 모르겠다..
 
 ### 03. 메일 - smtplib, mime
- - Gmail, Naver 모두 2차인증이 된 계정의 앱비밀번호를 이용한다 : [참고](https://coding-kindergarten.tistory.com/204)
+ - Gmail은 2차인증이 된 계정의 앱비밀번호를 이용한다 : [참고](https://coding-kindergarten.tistory.com/204)
