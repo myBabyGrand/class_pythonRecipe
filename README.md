@@ -13,3 +13,7 @@
 
 ### 03. 메일 - smtplib, mime
  - Gmail, Naver 모두 2차인증이 된 계정의 앱비밀번호를 이용한다 : [참고](https://coding-kindergarten.tistory.com/204)
+
+### 04. Rest API - requests
+ - 네이버 이미지 인식 서비스 API 미제공 -> SK NUGU facecan(유료)
+ - 
