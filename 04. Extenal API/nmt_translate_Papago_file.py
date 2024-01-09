@@ -29,7 +29,7 @@ if(rescode==200):
     print("번역 결과 : ")
     print(res['message']['result']['translatedText'])
     #파일 생성
-    with open('../05. google drive/translate.txt', 'w', encoding='utf8') as f:
+    with open('translate.txt', 'w', encoding='utf8') as f:
         f.write(res['message']['result']['translatedText'])
 
 else:
