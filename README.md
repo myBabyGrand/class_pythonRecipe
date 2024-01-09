@@ -16,4 +16,9 @@
 
 ### 04. Rest API - requests
  - 네이버 이미지 인식 서비스 API 미제공 -> SK NUGU facecan(유료)
- - 
+
+### 05. google drive
+ - gdrive3 출시에 따른 아래 가이드 수행 필요
+  + 1. gdrive3 다운로드 : https://github.com/glotlabs/gdrive 에서 install binary
+  + 2. google drive api 사용을 위한 설정 : https://github.com/glotlabs/gdrive/blob/main/docs/create_google_api_credentials.md
+  + 3. gdrive3 에 따른 명령어 문법 변경 : ```cmd```에서 ```gdrvie --help``` 로 확인  
